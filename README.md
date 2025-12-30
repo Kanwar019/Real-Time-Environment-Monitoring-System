@@ -1,6 +1,10 @@
 # 🛡️ Sentinel Environment
 **Live Environmental Monitoring System**
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://sentinel-environment.streamlit.app/)
+
+**🔴 Live Demo:** [Click here to view the Deployed Dashboard](https://sentinel-environment.streamlit.app/)
+
 **Submitted By:**
 * **Kanwarajaybir Singh** - 102317223
 * **Yati Bhansali** - 102317249
